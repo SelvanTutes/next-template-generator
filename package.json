@@ -2,7 +2,7 @@
   "name": "next-page-generator",
   "version": "1.0.0",
   "bin": {
-    "generate-page": "dist/index.js"
+    "generate-page1": "dist/index.js"
   },
   "type": "module",
   "dependencies": {
